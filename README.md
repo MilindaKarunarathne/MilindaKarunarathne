@@ -1,4 +1,4 @@
-![Animated Banner](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
+<!-- ![Animated Banner](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif) -->
 <h1 align="center">Hi 👋, I'm Milinda Karunaratne</h1>
 <h3 align="center">A passionate full stack developer from Sri-Lanka</h3>
 
