@@ -11,9 +11,9 @@
 </h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=milinda55&label=Profile%20Views&color=0e75b6&style=flat" alt="milinda55" />
-  <a href="https://github.com/milinda55?tab=followers">
-    <img src="https://img.shields.io/github/followers/milinda55?label=Followers&style=social" alt="GitHub followers">
+  <img src="https://komarev.com/ghpvc/?username=MilindaKarunarathne&label=Profile%20Views&color=0e75b6&style=flat" alt="MilindaKarunarathne" />
+  <a href="https://github.com/MilindaKarunarathne?tab=followers">
+    <img src="https://img.shields.io/github/followers/MilindaKarunarathne?label=Followers&style=social" alt="GitHub followers">
   </a>
 </div>
 
@@ -198,9 +198,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=milinda55&show_icons=true&theme=radical&hide_border=true" width="49%" alt="milinda55" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=milinda55&theme=radical&hide_border=true" width="49%" alt="milinda55" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=milinda55&show_icons=true&theme=radical&layout=compact&hide_border=true" width="48%" alt="milinda55" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MilindaKarunarathne&show_icons=true&theme=radical&hide_border=true" width="49%" alt="MilindaKarunarathne" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MilindaKarunarathne&theme=radical&hide_border=true" width="49%" alt="MilindaKarunarathne" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MilindaKarunarathne&show_icons=true&theme=radical&layout=compact&hide_border=true" width="48%" alt="MilindaKarunarathne" />
 </div>
 
 <br/>
@@ -210,7 +210,7 @@
   <summary><b>📈 Activity Graph</b></summary>
   <br/>
   <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=milinda55&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MilindaKarunarathne&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
   </p>
 </details>
 
@@ -219,9 +219,9 @@
 <!-- GitHub Contribution Snake -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/milinda55/milinda55/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/milinda55/milinda55/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/milinda55/milinda55/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MilindaKarunarathne/MilindaKarunarathne/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MilindaKarunarathne/MilindaKarunarathne/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/MilindaKarunarathne/MilindaKarunarathne/output/github-snake.svg" />
   </picture>
 </div>
 
